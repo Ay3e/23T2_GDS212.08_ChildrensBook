@@ -143,8 +143,8 @@ Material:
     - _Wobble: 1
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 9.179368, g: 9.179368, b: 9.179368, a: 1}
+    - _Color: {r: 1.602611, g: 1.67679, b: 4.393365, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _ReflectColor: {r: 0.539904, g: 0.59298354, b: 0.888, a: 1}
-    - _SpecColor: {r: 0.14261219, g: 0.13725491, b: 0.30980393, a: 1}
+    - _ReflectColor: {r: 0.0016316498, g: 0.0049775667, b: 0.103773594, a: 1}
+    - _SpecColor: {r: 0.0040737954, g: 0, b: 0.1792453, a: 1}
   m_BuildTextureStacks: []
